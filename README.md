@@ -1,2 +1,2 @@
-# Arch-Linux
-configuraciones y guias para arch linux
+# BlackArch
+Dotfiles And Configs
